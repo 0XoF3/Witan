@@ -1,8 +1,0 @@
-﻿services:
-  - type: worker
-    name: witan-bot
-    runtime: python
-    plan: starter
-    buildCommand: pip install -r requirements.txt
-    startCommand: python Witan.py
-    autoDeploy: true
