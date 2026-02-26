@@ -5,6 +5,8 @@ Witan is an AI-powered Discord bot designed to mentor, guide, and protect cybers
 
 It combines **structured learning guidance**, **automated threat intelligence**, and **real-time URL safety scanning** into a single assistant.
 
+It showes offline but it is online 🟢 <img width="228" height="59" alt="image" src="https://github.com/user-attachments/assets/34af890f-4d64-41a9-ab9d-1a24b3f095e2" />
+
 👉 **Install Witan:**
 [https://witan.webapp-1c9.workers.dev/install](https://witan.webapp-1c9.workers.dev/install)
 
@@ -282,3 +284,4 @@ It is designed to:
 * Provide structured growth paths
 
 It combines mentorship, threat intelligence, and automation into a single assistant.
+
